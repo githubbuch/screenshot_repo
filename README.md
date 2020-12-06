@@ -1,6 +1,6 @@
 # Mein wunderbares Projekt
-Dies hier ist mein **erstes Projekt** um *GitHub* auszuprobieren.
+Dies hier ist mein **erstes Projekt**, um *GitHub* auszuprobieren.
 
-## Meine ToDos:
+## Meine To-dos:
 - [x] README.md befüllen
-- [ ] Andere Dinge....
+- [ ] Andere Dinge ...
